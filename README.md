@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💳 FMRcc – AI Credit Card Recommender
 
-## Getting Started
+A smart web-based platform that helps users **discover, compare, and choose the best RuPay credit cards** based on their needs — powered by an AI assistant named **Taqdeer**.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+* 🔍 Explore RuPay credit cards from top banks
+* ⚖️ Side-by-side comparison of cards
+* 🎯 Personalized recommendations (based on user profile)
+* 🤖 AI Assistant "Taqdeer" for smart suggestions
+* 🔐 Privacy-first (no login, no personal data required)
+
+---
+
+## 🧠 AI Assistant – Taqdeer
+
+Taqdeer helps users:
+
+* Recommend best credit cards
+* Compare multiple cards
+* Explain benefits in simple language
+* Answer financial queries
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Next.js 14 + Tailwind CSS
+* **Backend:** Next.js API Routes
+* **Database:** (To be integrated – Supabase)
+* **AI:** OpenAI API
+
+---
+
+## 📦 Installation
 
 ```bash
+git clone https://github.com/vedantsinghedu/FMRcc.git
+cd FMRcc
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🌐 Usage
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Visit:
 
-## Learn More
+```
+http://localhost:3000
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Project Goal
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To simplify credit card selection by:
 
-## Deploy on Vercel
+* Reducing research time
+* Providing unbiased comparisons
+* Protecting user privacy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📈 Future Improvements
+
+* 🔥 Real-time bank data integration
+* 📊 Advanced recommendation engine
+* 📱 Mobile app version
+* 💰 Smart reward optimization
+
+---
+
+## 👨‍💻 Authors
+
+* Vedant Singh
+* Mridul Singh
+
+---
+
+## ⚠️ Disclaimer
+
+This platform is for informational purposes only.
+Users should verify details from official bank websites before applying.
+
+---
+
+## ⭐ Show some love
+
+If you like this project, give it a ⭐ on GitHub!
